@@ -4,6 +4,7 @@ title: Γλώσσες προγραμματισμού
 image_url: /images/smalltalk.jpg
 caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι απλά ένας ακόμη χρήστης, με περισσότερες γνώσεις, δεξιότητες, και δυνατότητες.
 slides:
+  - pwb
   - card-puncher
   - sketchpad-drafting
   - joss
@@ -25,5 +26,4 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
-  - pwb
 ---
