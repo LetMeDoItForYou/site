@@ -1,7 +1,7 @@
 ---
 author: AlexIoanP2020159
 title: Bram Moolenaar
-image_url: /images/bram_moolenaar.jpg
+image_url: /images/bram-moolenaar.jpg
 caption: Ο Bram Moolenaar είναι ένας Ολλανδός προγραμματιστής γνωστός ως ο δημιουργός του δημοφιλούς κειμενογράφου Vim. 
 categories:
   - Βιογραφία 
